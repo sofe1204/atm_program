@@ -1,1 +1,1 @@
-Simple python  bank ATM program
+Bank ATM program in python.
